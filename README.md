@@ -1,6 +1,6 @@
 # DeArmittAlvarez
-Aguila『 [Aguila](https://github.com/Aguila-Network) 』
-Discord『 [Discord](https://discord.gg/xqUfAG55VM) 』
+My Project『 [Aguila](https://github.com/Aguila-Network) 』
+My Discord『 [Server](https://discord.gg/xqUfAG55VM) 』
 
 ***Hola***, Welcome to my GitHub profile. You will find mostly Java projects here with maybe the occasion Batch file. Most if not all of my Java experience has came from client side development for Minecraft 1.7.10 and 1.8.9.
 
